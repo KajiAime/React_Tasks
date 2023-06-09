@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+.App {
+  text-align: center;
+}
+
+.nav-bar {
+	background-color: #cccccc;
+	padding: 20px 0;
+}
+
+.display {
+	margin: 10px 34%;
+	border: 1px solid #1111dd;
+	padding: 10px 15px;
+	width: 30%;
+}
